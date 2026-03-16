@@ -1,5 +1,5 @@
 # Begginer-Portfolio-Template-Website
-This will be my playground for web developpement
+This will be my playground for beginner web developpement
 
 ---
 
